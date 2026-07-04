@@ -3,6 +3,8 @@
 
 An **end-to-end Business Intelligence project** demonstrating how to transform messy educational data into meaningful insights using *PostgreSQL*, *Power Query*, *Power BI*, and *DAX*. This project covers the **complete analytics workflow** from securely connecting to a database and cleaning raw data, to designing a dimensional model, creating analytical measures, and building an interactive dashboard.
 
+https://dev.to/nelly_mogere_194bac0cb2ba/from-dirty-data-to-business-intelligence-building-an-end-to-end-power-bi-analytics-solution-with-4bfj
+
 
 ## Project Overview
 
